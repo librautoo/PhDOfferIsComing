@@ -11,3 +11,9 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore the .bundle because it contains local Bundler configuration that is specific to your machine.
+.bundle
+
+# Ignore the vendor because the vendor folder contains installed gems, and other users can install them by runnin
+vendor
