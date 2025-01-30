@@ -28,7 +28,7 @@ When you are initially working your website, it is very useful to be able to pre
     ```
     On MacOS the commands are:
     ```bash
-    brew install ruby
+    brew install rubygit config --global credential.helper
     brew install node
     gem install bundler
     ```
