@@ -32,12 +32,11 @@ When you are initially working your website, it is very useful to be able to pre
     brew install node
     gem install bundler
     ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again. [For me, first run `bundle config set --local path 'vendor/bundle'` to install Gems Locally (Recommended) then run `bundle install`]
+1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change. [For me,`bundle exec jekyll serve -l -H localhost`]
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
-For me in the terminal, type `wsl` and then `bundle exec jekyll serve -l -H localhost`.
 
 ## Using Docker
 
