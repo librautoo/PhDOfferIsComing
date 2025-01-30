@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yuhao Wang"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Some basic info"
+  location         : "Nanjing or California"
+  employer         : "Columbia University"
   uri              : # URL
   email            : "none@example.org" 
 
