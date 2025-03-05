@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuhao Gallery (Still In Process)"
+title                    : "Yuhao Home (Still In Process)"
 title_separator          : "-"
 name                     : &name "Yuhao Wang"
 description              : &description "This is website for my academic/professional records"
