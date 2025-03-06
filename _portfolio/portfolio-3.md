@@ -1,6 +1,6 @@
 ---
-title: "Projects Gallery(when I was Master student)"
-excerpt: "Some projects done when MA study"
+title: "Projects Gallery"
+excerpt: "Some projects done during MA study at Columbia University"
 collection: portfolio
 ---
 
