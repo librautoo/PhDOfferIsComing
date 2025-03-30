@@ -27,8 +27,8 @@ main:
   - title: "CV"
     url: /files/Yuhao Wang-CV.pdf
     
-  # - title: "CV"
+  #- title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
